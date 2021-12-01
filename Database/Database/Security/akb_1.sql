@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [akb]
+    WITH PASSWORD = N'E}|jqw|mHud|}pkoR0hsqis!msFT7_&#$!~<K3+dhqpj{ake', SID = 0x13B2E6F16EDE9D40A507F96CE27E6186, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
